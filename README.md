@@ -21,8 +21,8 @@ conda create -n PiDiViT python=3.9
 conda activate PiDiViT
 pip install -r PiDiViT/requirements.txt
 pip install -e ./PiDiViT
-
-###🔍Training 
+```
+### 🔍Training
 ```bash
 vit=l task=ovd dataset=coco bash scripts/train.sh  # train open-vocabulary COCO with ViT-L
 
