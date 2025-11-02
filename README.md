@@ -58,12 +58,13 @@ Check [Tools.md](Tools.md) for intructions to build prototype and prepare weight
 
 📜 Citation
 ```
-@inproceedings{zhou2025pixel,
-  title={When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection},
-  author={Zhou, Hongliang and Liu, Yongxiang and Mo, Canyu and Li, Weijie and Peng, Bowen and Liu, Li},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={24309--24318},
-  year={2025}
+@InProceedings{Zhou_2025_ICCV,
+    author    = {Zhou, Hongliang and Liu, Yongxiang and Mo, Canyu and Li, Weijie and Peng, Bowen and Liu, Li},
+    title     = {When Pixel Difference Patterns Meet ViT: PiDiViT for Few-Shot Object Detection},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {24309-24318}
 }
 ```
 📜 License
