@@ -70,7 +70,7 @@ Check [Tools.md](Tools.md) for intructions to build prototype and prepare weight
 This project is under the Apache-2.0 license.
 
 ⚙️ Acknowledgement
-PiDiViT builds upon the good work of [Devit] (https://github.com/mlzxy/devit). Special thanks to the Devit team for their exceptional open-source contributions.
+PiDiViT builds upon the good work of [Devit](https://github.com/mlzxy/devit). Special thanks to the Devit team for their exceptional open-source contributions.
 
 ⭐ Support the Project
 If PiDiViT accelerates your research, please ⭐ the repository and cite it to support future development.
