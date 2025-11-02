@@ -44,8 +44,7 @@ task=ovd dataset=coco bash scripts/train.sh
 # how many gpus are used
 ```
 
-
-🔍Evaluation
+### 🔍Evaluation
 
 ```bash
 vit=l task=ovd dataset=coco bash scripts/eval.sh # evaluate COCO OVD with ViT-L/14
