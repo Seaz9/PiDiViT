@@ -5,9 +5,9 @@
 🔥**PiDiViT achieves SOTA performance in COCO for few-shot, one-shot, and open-vocabulary object detection, setting new benchmarks and offering a valuable reference for future detecting few-shot objects.**
 
 ## 🛠️ Updates
-- (06/2025) PiDiViT accepted at ICCV 2025 (paper: [download](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.pdf)).
-- (10/2025) Official publication in ICCV 2025 proceedings.
 - (11/2025) Code released with full training/evaluation scripts.
+- (10/2025) Official publication in ICCV 2025 proceedings.
+- (06/2025) PiDiViT accepted at ICCV 2025 (paper: [download](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.pdf)).
 
 ## 🕸️ Dataset and Model Initialization Checkpoints
 You can download them from the baseline project [DE-ViT](https://github.com/mlzxy/devit/blob/main/Downloads.md).  
