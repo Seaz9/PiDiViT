@@ -1,4 +1,4 @@
-## 🚀 [PiDiViT: When Pixel Difference Patterns Meet ViT for Few-Shot Object Detection (ICCV 2025)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.pdf) (paper download link)
+## 🚀 [PiDiViT: When Pixel Difference Patterns Meet ViT for Few-Shot Object Detection (ICCV 2025)](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhou_When_Pixel_Difference_Patterns_Meet_ViT_PiDiViT_for_Few-Shot_Object_ICCV_2025_paper.pdf)
 
 🔥**We propose PiDiViT, which empowers pretrained ViT to excel in few-shot detection by designing explicit prior modules for pixel-wise differences and multiscale variations in low-level features of pretrained ViT.**
 
