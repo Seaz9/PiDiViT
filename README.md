@@ -68,12 +68,15 @@ Check [Tools.md](Tools.md) for intructions to build prototype and prepare weight
 }
 ```
 📜 License
+
 This project is under the Apache-2.0 license.
 
 ⚙️ Acknowledgement
+
 PiDiViT builds upon the good work of [DE-ViT](https://github.com/mlzxy/devit). Special thanks to the DE-ViT team for their exceptional open-source contributions.
 
 ⭐ Support the Project
+
 If PiDiViT accelerates your research, please ⭐ the repository and cite it to support future development.
 
 Your stars fuel the next breakthrough in few-shot detection! 🔥🚀
